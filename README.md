@@ -28,7 +28,11 @@ Please find the comphrensive list of the projects and corresponding skills I acq
 - Time Series Analysis and Forecasting
 - Support Vector Machine and Kernels
 #### 4-2. Unsupervised Learning
-- Clustering
+- k-means Clustering
+- Agglomerative Hierarchical Clustering
+- Cosine Similarity
+- Principal Component Analysis
+- Singular Value Decomposition
 
 ### 5. Capstone Project 1: Google Play App Store 
 
